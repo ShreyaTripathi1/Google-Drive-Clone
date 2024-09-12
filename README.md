@@ -18,4 +18,6 @@ The project replicates the basic interface of Google Drive, featuring a navigati
 - **Google Fonts & Icons**: To enhance the visual appeal of the application.
 
 ## Result
+
+https://shreyatripathi1.github.io/Google-Drive-Clone/
 ![image](https://github.com/user-attachments/assets/0a3c5a03-527d-4a57-bfbf-7cfd4c2fd28b)
